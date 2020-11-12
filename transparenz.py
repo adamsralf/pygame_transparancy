@@ -32,7 +32,7 @@ class Cat(pygame.sprite.Sprite):
     Short sprite example with no other function as showing how to make 
     the background color transparent. This class is derived from pygame.sprite.Sprite. 
     """
-
+3
     def __init__(self):
         """Constructor function.
 
